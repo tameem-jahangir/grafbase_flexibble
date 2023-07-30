@@ -38,7 +38,7 @@ const AuthProviders = () => {
       </div>
     )
   }
-  return <div>Loading...</div>
+  return <div>No providers found</div>
 }
 
 export default AuthProviders
