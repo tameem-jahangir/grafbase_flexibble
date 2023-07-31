@@ -19,7 +19,7 @@ export const createUserMutation = `
                 name
                 email
                 avatarUrl
-                descripion
+                description
                 githubUrl
                 linkedInUrl
                 id
