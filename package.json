@@ -28,5 +28,9 @@
   },
   "devDependencies": {
     "@grafbase/sdk": "^0.3.0"
+  },
+  "resolutions": {
+    "@types/react": "17.0.14",
+    "@types/react-dom": "17.0.14"
   }
 }
